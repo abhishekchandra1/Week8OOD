@@ -1,0 +1,3 @@
+TheDungeon.java file is the main file which is running completely.
+All the testing is done in that file for all the designs patters implemented in the program.
+The design pattrens used are wrriten inside comments before where we used them.

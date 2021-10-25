@@ -1,0 +1,15 @@
+Premise:
+You are in a dungeon and you have to kill as many enemies as you can before dying.
+
+Gameplay:
+You have these options.
+
+1. Attack: You deal a random amount of damage to the enemy, as it also deals damage to you.
+2. Use Potion: Drink a potion that restores your health by a certain amount.
+3. Run Away: Flee from the enemy and spawn a new enemy.
+4. Exit: Quit the game with or without saving your progress.
+
+Commands to run:
+$ javac TheDungeon.java
+$ java TheDungeon
+

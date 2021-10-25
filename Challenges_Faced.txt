@@ -1,0 +1,14 @@
+1. All the things were simple to run. Mostly things were easy.
+2. The only problem we faced was in Player and TheDungeon Class.
+
+Player.java:
+As we were using different other classes like Pouch, Sword and Armour. So accessing those class elements
+was one of the challenge we faced. So to avoid this i made different functions for each functionality i
+needed in that way it was easy for me to check individual class functions by testing each function individualy, 
+this helped me in solving that problem in Player Class.
+
+TheDungeon.java:
+After all the classes and functions and also after testing each class individually, the main problem was to
+develop a working main in which all the classes will be combined and run simultanelouly for the game. This was one
+of the problems in the project. Simply i organized the code in main with single function first like for attack then
+for using potion and so on and so this was also solved and i was able to make a main before the deadline.
